@@ -99,9 +99,10 @@ nav a:hover{color:var(--ink)}
 h1{font-family:var(--display);font-weight:500;font-size:var(--text-hero);line-height:1.02;letter-spacing:-.02em;color:var(--ink)}
 .lede{font-family:var(--display);font-size:var(--text-xl);line-height:1.3;color:var(--muted);margin-top:22px;max-width:30ch}
 .portrait{position:relative}
-.portrait img{width:100%;aspect-ratio:1/1;object-fit:cover;border-radius:4px;display:block;filter:saturate(.92)}
+.portrait img{width:100%;height:auto;aspect-ratio:1/1;object-fit:cover;border-radius:4px;display:block;filter:saturate(.92)}
 .portrait::after{content:"";position:absolute;inset:auto -12px -12px auto;width:60%;height:60%;border-right:2px solid var(--accent);border-bottom:2px solid var(--accent);pointer-events:none}
 section{padding:clamp(40px,6vw,72px) 0;border-top:1px solid var(--rule)}
+.grid>*{min-width:0}
 .grid{display:grid;grid-template-columns:220px 1fr;gap:clamp(20px,4vw,56px)}
 h2{font-size:var(--text-sm);text-transform:uppercase;letter-spacing:.14em;color:var(--muted);font-weight:600;padding-top:6px}
 .prose p{max-width:66ch}
