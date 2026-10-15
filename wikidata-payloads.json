@@ -1,0 +1,39 @@
+{
+  "refs": {
+    "foundation": "https://www.aigovops-foundation.com/",
+    "tdwi": "https://tdwi.org/events/executive-summits/anaheim/courses/agenda.aspx",
+    "site": "https://bobrapp.github.io/",
+    "linkedin": "https://www.linkedin.com/in/bobrapp"
+  },
+  "foundation": {
+    "label": "AiGovOps Foundation",
+    "description": "nonprofit organization focused on executable AI governance",
+    "claims": {
+      "P31": "Q163740 nonprofit organization",
+      "P17": "Q30 United States",
+      "P856": "https://www.aigovops-foundation.com/",
+      "P571": "2024",
+      "P101": "Q130610796 governance of artificial intelligence",
+      "P112": "<person QID, added after person is created>"
+    }
+  },
+  "person": {
+    "label": "Bob Rapp",
+    "alias": "Robert Rapp",
+    "description": "American AI architect and AI governance practitioner",
+    "claims": {
+      "P31": "Q5 human",
+      "P21": "Q6581097 male",
+      "P27": "Q30 United States",
+      "P106": "Q1548249 software architect",
+      "P108": "Q81965 General Motors (ref: TDWI agenda)",
+      "P69": ["Q219563 University of Washington", "Q7060132 Northwest Nazarene University"],
+      "P101": "Q130610796 governance of artificial intelligence",
+      "P1416": "<foundation QID> affiliation",
+      "P856": "https://bobrapp.github.io/",
+      "P6634": "bobrapp",
+      "P2037": "bobrapp",
+      "P2397": "UCA0Euzy98ERpH380BrZkjWQ"
+    }
+  }
+}
