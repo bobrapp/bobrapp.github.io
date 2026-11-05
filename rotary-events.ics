@@ -1,0 +1,165 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ellensburg Morning Rotary//Events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Ellensburg Morning Rotary Events
+BEGIN:VEVENT
+UID:emr-1-2026@ellensburgmorningrotary
+SUMMARY:Operation Harvest - Morning Shift
+DTSTART:20261107T093000-0800
+DTEND:20261107T120000-0800
+LOCATION:Bi-Mart\, Ellensburg WA
+DESCRIPTION:Remember to sign up: https://www.signupgenius.com/go/10C0C48AAAF22A2F8C43-66346390-operation. Per Paul Copenhaver: the morning shift needs 1-2 more volunteers at Bi-Mart\; the afternoon's biggest need is Grocery Outlet. Kittitas County Rotary clubs' food drive for FISH.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-2-2026@ellensburgmorningrotary
+SUMMARY:Operation Harvest - Afternoon Shift
+DTSTART:20261107T120000-0800
+DTEND:20261107T143000-0800
+LOCATION:Grocery Outlet\, Ellensburg WA
+DESCRIPTION:Remember to sign up: https://www.signupgenius.com/go/10C0C48AAAF22A2F8C43-66346390-operation. Per Paul Copenhaver: the morning shift needs 1-2 more volunteers at Bi-Mart\; the afternoon's biggest need is Grocery Outlet. Kittitas County Rotary clubs' food drive for FISH.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-3-2026@ellensburgmorningrotary
+SUMMARY:Rotary Meeting: Meet Your Rotarians (Tim Markwick\, Addison Johnson)
+DTSTART:20261105T064500-0800
+DTEND:20261105T074500-0800
+LOCATION:The Palace Cafe\, 323 N. Main St.\, Ellensburg\, WA
+DESCRIPTION:Weekly Thursday meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-4-2026@ellensburgmorningrotary
+SUMMARY:Rotary Meeting: Cold Weather Shelter
+DTSTART:20261112T064500-0800
+DTEND:20261112T074500-0800
+LOCATION:The Palace Cafe\, 323 N. Main St.\, Ellensburg\, WA
+DESCRIPTION:Weekly Thursday meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-5-2026@ellensburgmorningrotary
+SUMMARY:Rotary Meeting: Rotary Foundation (Jerry A) + Meet Your Rotarian (Aaron Reiman)
+DTSTART:20261119T064500-0800
+DTEND:20261119T074500-0800
+LOCATION:The Palace Cafe\, 323 N. Main St.\, Ellensburg\, WA
+DESCRIPTION:Weekly Thursday meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-6-2026@ellensburgmorningrotary
+SUMMARY:Rotary Meeting: Marisa\, Gilmore Library
+DTSTART:20261203T064500-0800
+DTEND:20261203T074500-0800
+LOCATION:The Palace Cafe\, 323 N. Main St.\, Ellensburg\, WA
+DESCRIPTION:Weekly Thursday meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-7-2026@ellensburgmorningrotary
+SUMMARY:Rotary Meeting: Chris\, Sheriff's Office
+DTSTART:20261210T064500-0800
+DTEND:20261210T074500-0800
+LOCATION:The Palace Cafe\, 323 N. Main St.\, Ellensburg\, WA
+DESCRIPTION:Weekly Thursday meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-8-2026@ellensburgmorningrotary
+SUMMARY:Rotary Meeting: Elementary Chorus
+DTSTART:20261217T064500-0800
+DTEND:20261217T074500-0800
+LOCATION:The Palace Cafe\, 323 N. Main St.\, Ellensburg\, WA
+DESCRIPTION:Weekly Thursday meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-9-2026@ellensburgmorningrotary
+SUMMARY:Membership Committee
+DTSTART:20261110T170000-0800
+DTEND:20261110T180000-0800
+LOCATION:Whipsaw
+DESCRIPTION:Committee meeting\, everyone welcome.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-10-2026@ellensburgmorningrotary
+SUMMARY:EMRC Board Meeting
+DTSTART:20261111T173000-0800
+DTEND:20261111T183000-0800
+LOCATION:Scott Pernaa's Office
+DESCRIPTION:Board meeting on Veterans Day.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-11-2026@ellensburgmorningrotary
+SUMMARY:Service Committee
+DTSTART:20261117T173000-0800
+DTEND:20261117T183000-0800
+LOCATION:The Ridge
+DESCRIPTION:Location change: now at The Ridge.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-12-2026@ellensburgmorningrotary
+SUMMARY:Environmental Sustainability Committee
+DTSTART:20261117T173000-0800
+DTEND:20261117T183000-0800
+LOCATION:The Gard
+DESCRIPTION:Committee meeting\, everyone welcome.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-13-2026@ellensburgmorningrotary
+SUMMARY:Vocational Meeting
+DTSTART:20261125T173000-0800
+DTEND:20261125T183000-0800
+LOCATION:The Gard
+DESCRIPTION:Committee meeting\, everyone welcome.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-14-2026@ellensburgmorningrotary
+SUMMARY:Youth Services Committee
+DTSTART:20261201T120000-0800
+DTEND:20261201T130000-0800
+LOCATION:Fidelina's on 5th
+DESCRIPTION:Committee meeting\, everyone welcome.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-15-2026@ellensburgmorningrotary
+SUMMARY:Literacy Committee
+DTSTART:20261201T173000-0800
+DTEND:20261201T183000-0800
+LOCATION:The Gard
+DESCRIPTION:No November meeting\; first one is Dec 1.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-16-2026@ellensburgmorningrotary
+SUMMARY:Yahtzee Party at Robin's House
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+LOCATION:Robin's House
+DESCRIPTION:Yahtzee party\; time to be announced.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-17-2026@ellensburgmorningrotary
+SUMMARY:Rotary Christmas Party - Holly Dolly Party at Phil's House
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+LOCATION:Phil's House
+DESCRIPTION:Christmas party\; time to be announced.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-18-2026@ellensburgmorningrotary
+SUMMARY:Dessert Auction
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+DESCRIPTION:Dessert auction\; time to be announced.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-19-2026@ellensburgmorningrotary
+SUMMARY:Rotary Road Show
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270418
+DESCRIPTION:District road show\, Apr 14-17\; details to come from Jill Leonard.
+END:VEVENT
+BEGIN:VEVENT
+UID:emr-20-2026@ellensburgmorningrotary
+SUMMARY:Rotary International Convention\, Barcelona
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270701
+LOCATION:Barcelona\, Spain
+DESCRIPTION:Rotary International Convention.
+END:VEVENT
+END:VCALENDAR
